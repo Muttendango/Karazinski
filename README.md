@@ -1,2 +1,2 @@
 # Karazinski
-What is worth doing is worth doing it.
+What is worth doing, is worth doing it well.
